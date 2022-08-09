@@ -16,6 +16,6 @@ Random Number Generated
 
 ## Example usage
 
-uses: actions/test-composite-action@v1.0
+uses: actions/test-composite-action@v1
 with:
   who-to-greet: 'Mona the Octocat'
